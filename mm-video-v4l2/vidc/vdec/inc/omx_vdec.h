@@ -48,7 +48,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <inttypes.h>
 #include <cstddef>
 #include <cutils/atomic.h>
-#include <qdMetaData.h>
+#include "qdMetaData.h"
 #include <media/msm_media_info.h>
 
 static ptrdiff_t x;
